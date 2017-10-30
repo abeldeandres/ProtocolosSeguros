@@ -1,0 +1,2 @@
+cifradotransposicion.CifradoTransposicion
+cifradoTransposicion.cifrarTransposicion
